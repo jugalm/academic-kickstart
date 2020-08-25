@@ -16,9 +16,10 @@ caption = ""
 
 ___
 
-## Kaggle Competitions:
+## Kaggle Competitions Expert (Top 2% in ranking):
 
-* Currently participating in Kaggle / NFL Big Data Bowl. 
+* Ranked 19 out of 2000 teams (Silver Medal), Kaggle / NFL Big Data Bowl 2020. 
+* Top 10 % (bronze medal), Kaggle M5 Forecasting - Accuracy Competition 2020.
 * Top 10 % (bronze medal), Kaggle IEEE-CIS Fraud Detection Competition 2019.
 * Top 17 %, Kaggle APTOS 2019 Blindness Detection Competition.
 
