@@ -54,7 +54,7 @@ copyright_license = {enable = false, allow_derivatives = false, share_alike = tr
 highlight_superuser = false
 
 # PLACE THIS NEW [CMS] CONFIG SECTION AT THE END OF THE FILE
-
+media_dir = "img"
 ############################
 ## Content Management System
 ############################
